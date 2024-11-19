@@ -17,22 +17,8 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.1",
     "react-confetti": "^6.1.0",
-    "react-cookie-consent": "^8.0.1",
-    "react-dom": "^18.2.0",
-    "react-google-recaptcha": "^2.1.0",
-    "react-helmet": "^6.1.0",
-    "react-lazy-load-image-component": "^1.6.0",
-    "react-loading-skeleton": "^3.1.1",
-    "react-redux": "^8.0.5",
-    "react-router-dom": "^6.8.0",
-    "react-scripts": "5.0.1",
-    "react-select-search": "^4.1.6",
-    "react-slick": "^0.29.0",
-    "react-top-loading-bar": "^2.3.1",
-    "react-use-cart": "^1.13.0",
-    "slick-carousel": "^1.8.1",
-    "sweetalert2": "^11.7.1",
-    "web-vitals": "^2.1.4"
+    "react-cookie-consent": "^8.0.1"
+
   }
 }
 
