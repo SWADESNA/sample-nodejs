@@ -17,7 +17,10 @@
     "mersenne-twister": "^1.1.0",
     "morgan": "~1.9.1",
     "pug": "^2.0.4",
-    "uglify-js": "^2.6.0"
+    "uglify-js": "^2.6.0",
+    "uuid": "^3.3.2"
+
+    
   }
   "engines": {
     "node": ">=20.0.0"
